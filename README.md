@@ -1,10 +1,11 @@
-# [ThaiFixes](http://thaifixes.lion328.com) [![Build Status](https://travis-ci.org/lion328/ThaiFixes.svg?branch=master)](https://travis-ci.org/lion328/ThaiFixes)
+# ThaiFixes Continued [![Build Status](https://travis-ci.org/lion328/ThaiFixes.svg?branch=master)](https://travis-ci.org/lion328/ThaiFixes)
 
-Make Thai language in Minecraft looks better by shifting Thai Unicode characters into right place.
+This is a continuation of lion328's ThaiFixes mod by Cappuchino. This mod aims to fix displaying Thai vowels, tone marks, and more.
 
 ## Contributors
 
-- [lion328](http://github.com/lion328) (Developer and maintainer)
+- [Cappuchino](https://github.com/Cappuchino) (ThaiFixes Continued)
+- [lion328](http://github.com/lion328) (Creator of mods for the later versions up to 1.9.4)
 - [PCXD](http://pcxd.me) (Developer of the original Minecraft 1.2.4 mod)
 - [secretdataz](https://github.com/secretdataz) (Coremod source code)
 
